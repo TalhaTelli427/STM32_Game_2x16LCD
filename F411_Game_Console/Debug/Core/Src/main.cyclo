@@ -1,0 +1,15 @@
+main.c:104:6:HAL_ADC_ConvCpltCallback	2
+main.c:111:6:HAL_TIM_PeriodElapsedCallback	24
+main.c:198:7:character_move	3
+main.c:209:7:Lower_Block_creator	17
+main.c:286:7:Upper_Block_creator	17
+main.c:360:7:Block_creator_Bonus	24
+main.c:447:7:shoot	3
+main.c:468:6:main	19
+main.c:594:7:SystemClock_Config	3
+main.c:639:14:MX_ADC1_Init	3
+main.c:688:14:MX_I2C1_Init	2
+main.c:720:14:MX_TIM10_Init	2
+main.c:749:14:MX_USART2_UART_Init	2
+main.c:780:14:MX_GPIO_Init	1
+main.c:829:7:Error_Handler	1
